@@ -4,6 +4,7 @@
 
 ### **Data**
 - [x] `Goodreads dataset`: Write web scraping code to create Goodreads dataset. **Albert**
+- [ ] Clean and preprocess data **Mark**
 - [ ] Process genres (from string to lists) **Albert**
 - [ ] Create train-test split for evaluation **Mark**
 
