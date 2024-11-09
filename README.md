@@ -4,9 +4,9 @@
 
 ### **Data**
 - [x] `Goodreads dataset`: Write web scraping code to create Goodreads dataset. **Albert**
-- [ ] Clean and preprocess data **Mark**
-- [ ] Process genres (from string to lists) **Albert**
-- [ ] Create train-test split for evaluation **Mark**
+- [x] Clean and preprocess data **Mark**
+- [x] Process genres (from string to lists) **Albert**
+- [x] Create train-test split for evaluation **Mark**
 
 ### **Frequent itemset algorithms**
 - [ ] `Apriori`: Implement `Apriori` algorithm from scratch and assert that it gives the same output as `mlxtend.frequent_patters.apriori` **Albert**
@@ -14,10 +14,11 @@
 - [ ] Compare the two algorithms based on time taken, memory used, and number of patterns found. **Albert**
 
 ### **Clustering**
-- [ ] `K-means`: Implement `K-means` clustering. **Mark**
+- [x] `K-means`: Implement `K-means` clustering. **Mark**
 - [ ] `DBSCAN`: Implement `DBSCAN` clustering.
 - [ ] Calculate Davies-Bouldin index for both clustering types. **Mark**
-- [ ] Visualize clusters. **Mark**
+- [x] Visualize clusters for K-Means. **Mark**
+- [ ] Visualize clusters for DBSCAN. 
 
 ### **Recommendation system integration**
 - [ ] Using frequent itemsets (Apriori/PCY)
