@@ -15,10 +15,10 @@
 
 ### **Clustering**
 - [x] `K-means`: Implement `K-means` clustering. **Mark**
-- [ ] `DBSCAN`: Implement `DBSCAN` clustering.
+- [ ] `DBSCAN`: Implement `DBSCAN` clustering. **Bendix**
 - [ ] Calculate Davies-Bouldin index for both clustering types. **Mark**
 - [x] Visualize clusters for K-Means. **Mark**
-- [ ] Visualize clusters for DBSCAN. 
+- [ ] Visualize clusters for DBSCAN. **Bendix**
 
 ### **Recommendation system integration**
 - [ ] Using frequent itemsets (Apriori/PCY)
