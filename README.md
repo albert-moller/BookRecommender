@@ -11,7 +11,7 @@
 ### **Frequent itemset algorithms**
 - [x] `Apriori`: Implement `Apriori` algorithm from scratch and assert that it gives the same output as `mlxtend.frequent_patters.apriori` **Albert**
 - [ ] `PCY`: Implement `PCY` algorithm from scratch and assert that it gives the same output as another python package. **Frederik**
-- [ ] Compare the two algorithms based on time taken, memory used, and number of patterns found. **Albert**
+- [x] Compare the two algorithms based on time taken, memory used, and number of patterns found. **Albert**
 
 ### **Clustering**
 - [x] `K-means`: Implement `K-means` clustering. **Mark**
