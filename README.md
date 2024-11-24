@@ -21,7 +21,7 @@
 - [ ] Visualize clusters for DBSCAN. **Bendix**
 
 ### **Recommendation system integration**
-- [ ] Using frequent itemsets (Apriori/PCY)
+- [x] Using frequent itemsets (Apriori/PCY)
 - [ ] Using clusters (K-means/DBSCAN)
 - [ ] Combine both approaches
 
