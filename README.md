@@ -29,6 +29,6 @@
 
 ### **Evaluation**
 - [ ] `Metrics`: Implement metrics to quantify the performance of Goodreads recommendation system using `Aprior`, `PCY`, `K-means` and `word2vec`.
-    - [ ] Genre matching score (the system recommends books with similar genres)
+    - [ ] Genre matching score (the system recommends books with similar genres) **Frederik**
     - [ ] Rating prediction accuracy (the system recommends books with similar ratings)
     - [ ] Recommendation diversity (the system gives diverse recommendations)
