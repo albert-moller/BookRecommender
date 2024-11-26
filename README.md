@@ -15,21 +15,20 @@
 
 ### **Clustering**
 - [x] `K-means`: Implement `K-means` clustering. **Mark**
-- [ ] `DBSCAN`: Implement `DBSCAN` clustering. **Bendix**
-- [ ] Calculate Davies-Bouldin index for both clustering types. **Mark**
+- [x] Calculate Davies-Bouldin index for clustering. **Mark**
 - [x] Visualize clusters for K-Means. **Mark**
-- [ ] Visualize clusters for DBSCAN. **Bendix**
+
+### **Word2Vec**
+- [ ] Implement word2vec (topic not taught in class). **Bendix**
 
 ### **Recommendation system integration**
 - [x] Using frequent itemsets (Apriori/PCY) **Albert**
-- [x] Using clusters (K-means/DBSCAN) **Albert**
+- [x] Using clusters (K-means) **Albert**
+- [ ] Using word2vec
 - [ ] Combine both approaches
 
 ### **Evaluation**
-- [ ] `Metrics`: Implement metrics to quantify the performance of Goodreads recommendation system using `Aprior`, `PCY`, `K-means` and `DBSCAN`.
+- [ ] `Metrics`: Implement metrics to quantify the performance of Goodreads recommendation system using `Aprior`, `PCY`, `K-means` and `word2vec`.
     - [ ] Genre matching score (the system recommends books with similar genres)
     - [ ] Rating prediction accuracy (the system recommends books with similar ratings)
     - [ ] Recommendation diversity (the system gives diverse recommendations)
-     
-        
-- [ ] `Topic not taught in class`: Implement a topic / metric / algorithm not taught in class.
