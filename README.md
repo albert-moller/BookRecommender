@@ -22,7 +22,7 @@
 
 ### **Recommendation system integration**
 - [x] Using frequent itemsets (Apriori/PCY) **Albert**
-- [ ] Using clusters (K-means/DBSCAN)
+- [x] Using clusters (K-means/DBSCAN) **Albert**
 - [ ] Combine both approaches
 
 ### **Evaluation**
