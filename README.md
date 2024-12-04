@@ -25,11 +25,11 @@
 ### **Recommendation system integration**
 - [x] Using frequent itemsets (Apriori/PCY) **Albert**
 - [x] Using clusters (K-means) **Albert**
-- [x] Using word2vec
+- [x] Using word2vec **Bendix**
 
 ### **Evaluation**
 - [ ] `Metrics`: Implement metrics to quantify the performance of Goodreads recommendation system using `Aprior`, `PCY`, `K-means` and `word2vec`.
-    - [X] Similarity metrics for word2vec embeddings
+    - [X] Similarity metrics for word2vec embeddings **Bendix**
     - [X] Genre matching score (the system recommends books with similar genres) **Frederik**
     - [X] Rating prediction accuracy (the system recommends books with similar ratings) **Frederik**
     - [ ] Recommendation diversity (the system gives diverse recommendations)
