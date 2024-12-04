@@ -19,16 +19,17 @@
 - [x] Visualize clusters for K-Means. **Mark**
 
 ### **Word2Vec**
-- [ ] Implement word2vec (topic not taught in class). **Bendix**
+- [x] Implement word2vec (topic not taught in class).**Bendix**
+- [x] Visualize word2vec via neighbor graph and louvain cluster. **Bendix**
 
 ### **Recommendation system integration**
 - [x] Using frequent itemsets (Apriori/PCY) **Albert**
 - [x] Using clusters (K-means) **Albert**
-- [ ] Using word2vec
-- [ ] Combine both approaches
+- [x] Using word2vec
 
 ### **Evaluation**
 - [ ] `Metrics`: Implement metrics to quantify the performance of Goodreads recommendation system using `Aprior`, `PCY`, `K-means` and `word2vec`.
+    - [X] Similarity metrics for word2vec embeddings
     - [X] Genre matching score (the system recommends books with similar genres) **Frederik**
     - [X] Rating prediction accuracy (the system recommends books with similar ratings) **Frederik**
     - [ ] Recommendation diversity (the system gives diverse recommendations)
